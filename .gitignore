@@ -1,0 +1,3 @@
+# Archivos ignorados por git
+node_modules
+.env
